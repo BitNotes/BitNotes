@@ -1,0 +1,4 @@
+BitNotes
+========
+
+New CryptoCurrency
